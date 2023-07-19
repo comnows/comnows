@@ -4,7 +4,7 @@ Hi 👋 My name is Watthanandh Luaengtawekul
 Fresh graduate | Game Dev
 -------------------------
 
-I've been learning about game development with Unity and others coding languages for 4 years. I have a passion in game development so I'm looking for full time job as game developer.
+I'm fresh graduate from KMUTT, Bachelor of Science in Media Technology, Major in Game Development. I've been learning about game development with Unity and others coding languages for 4 years and previously intern at Garena as Game Developer. I have a passion in game development so I'm looking for full time job as game developer.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-watthanandh.netlify.app)
